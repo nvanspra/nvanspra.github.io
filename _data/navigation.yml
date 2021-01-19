@@ -7,6 +7,6 @@ main:
 #    url: /tags/
   - title: "Publications"
     url: /publications/
-  - title: "About"
-    url: /about/
+#  - title: "About"
+#    url: /about/
 
