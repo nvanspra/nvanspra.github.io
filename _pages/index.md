@@ -16,4 +16,4 @@ I graduated from Ecole Centrale de Lyon and Université Claude-Bernard in Engine
 
 ## Community involvement 
 
-I have volunteered for the 58th IEEE Conference on Decision and Control ([CDC 2019](https://cdc2019.ieeecss.org/)) and served as a reviewer for the European Journal of Control. I am also a corresponding member of the IFAC technical commitee on nonlinear control systems ([TC 2.3](https://tc.ifac-control.org/2/3)).
+I have volunteered for the 58th IEEE Conference on Decision and Control ([CDC 2019](https://cdc2019.ieeecss.org/)) and served as a reviewer for the European Journal of Control and the IMA Journal of Mathematical Control and Information. I am also a corresponding member of the IFAC technical commitee on nonlinear control systems ([TC 2.3](https://tc.ifac-control.org/2/3)).
