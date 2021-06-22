@@ -10,7 +10,7 @@ author_profile: true
 
 ## Journal articles
 
-- N. Vanspranghe, F. Ferrante and C. Prieur, Velocity Stabilization of a Wave Equation with a Nonlinear Dynamic Boundary Condition, submitted to *IEEE Transactions on Automatic Control*.
+- N. Vanspranghe, F. Ferrante and C. Prieur, Velocity Stabilization of a Wave Equation with a Nonlinear Dynamic Boundary Condition, conditionally accepted for publication in the *IEEE Transactions on Automatic Control*.
 
 ## Thesis
 
