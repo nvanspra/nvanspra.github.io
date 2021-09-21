@@ -14,4 +14,4 @@ author_profile: true
 
 ## Thesis
 
-- N. Vanspranghe, Parcimonie dans les problèmes d'observation, Master thesis, 2019.
+- N. Vanspranghe, [Parcimonie dans les problèmes d'observation](https://hal.archives-ouvertes.fr/hal-03350395/document), Master thesis, 2019.
