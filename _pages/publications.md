@@ -6,7 +6,7 @@ author_profile: true
 
 ## Journal articles
 
-- N. Vanspranghe, F. Ferrante and C. Prieur, Stabilization of the Wave Equation through Nonlinear Dirichlet Actuation, submitted to *ESAIM Control, Optimisation and Calculus of Variations*.
+- N. Vanspranghe, F. Ferrante and C. Prieur, [Stabilization of the Wave Equation through Nonlinear Dirichlet Actuation](https://hal.archives-ouvertes.fr/hal-03363940/document), submitted to *ESAIM Control, Optimisation and Calculus of Variations*.
 
 - N. Vanspranghe, F. Ferrante and C. Prieur, [Velocity Stabilization of a Wave Equation with a Nonlinear Dynamic Boundary Condition](https://hal.archives-ouvertes.fr/hal-03349947/document), conditionally accepted for publication in the *IEEE Transactions on Automatic Control*.
 
