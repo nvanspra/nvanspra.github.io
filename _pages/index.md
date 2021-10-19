@@ -11,7 +11,8 @@ I graduated from Ecole Centrale de Lyon and Université Claude-Bernard in Engine
 
 ## Research interests
 * Infinite-dimensional systems theory (stability, frequency-domain analysis, decay rates);
-* Control of partial differential equations (nonlinear control, boundary control);
+* Stabilization of partial differential equations (nonlinear control, boundary control);
+* Semigroup and operator theory in systems and control.
 
 ## Community involvement 
 
