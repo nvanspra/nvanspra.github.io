@@ -10,9 +10,8 @@ I am a PhD student within the Infinite Dimensional Dynamics team at GIPSA-lab un
 I graduated from Ecole Centrale de Lyon and Université Claude-Bernard in Engineering and Applied Mathematics in 2019.
 
 ## Research interests
-* Infinite-dimensional systems theory;
-* Boundary control of partial differential equations;
-* Semigroup and operator theory.
+* Infinite-dimensional systems theory (stability, frequency-domain analysis, decay rates);
+* Control of partial differential equations (nonlinear control, boundary control);
 
 ## Community involvement 
 
