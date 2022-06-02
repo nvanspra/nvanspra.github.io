@@ -20,4 +20,3 @@ author_profile: true
 
 - N. Vanspranghe, [Parcimonie dans les problèmes d'observation](https://hal.archives-ouvertes.fr/hal-03350395/document), Master thesis, 2019.
 
-# Talks
