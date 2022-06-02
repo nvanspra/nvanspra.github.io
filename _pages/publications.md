@@ -12,7 +12,7 @@ author_profile: true
 
 ## Conference papers
 
-- N. Vanspranghe, Wave Equation with Hyperbolic Boundary Condition: A Frequency Domain Approach, to be presented at the IFAC CPDE 2022 Workshop on Control of Systems Governed by Partial Differential Equations.
+- N. Vanspranghe, Wave Equation with Hyperbolic Boundary Condition: A Frequency Domain Approach, to be presented at the IFAC CPDE 2022 Workshop on Control of Systems Governed by Partial Differential Equations, Kiel, Germany.
 - N. Vanspranghe, F. Ferrante and C. Prieur, [Stabilization of the Wave Equation by the Mean of a Saturating Dirichlet Feedback](https://hal.archives-ouvertes.fr/hal-03349953/document), IFAC Conference on Modelling, Identification and Control of Nonlinear Systems, Tokyo, Japan, 2021.
 - N. Vanspranghe, F. Ferrante and C. Prieur, [Control of a Wave Equation with a Dynamic Boundary Condition](https://hal.archives-ouvertes.fr/hal-02987252/document), IEEE Conference on Decision and Control, Jeju Island, South Korea, 2020.
 
