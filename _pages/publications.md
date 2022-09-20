@@ -19,4 +19,5 @@ author_profile: true
 ## Thesis
 
 - N. Vanspranghe, [Parcimonie dans les problèmes d'observation](https://hal.archives-ouvertes.fr/hal-03350395/document), Master thesis, 2019.
+- N. Vanspranghe, Contributions à la théorie du contrôle des systèmes non-linéaires en dimension infinie, PhD thesis, 2022.
 
