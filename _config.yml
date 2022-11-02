@@ -16,7 +16,7 @@
 title: "Nicolas Vanspranghe"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal webpage of Nicolas Vanspranghe, PhD student.
+  Personal webpage of Nicolas Vanspranghe, postdoctoral researcher.
 twitter_username: username
 github_username: nvanspra
 minimal_mistakes_skin: air
@@ -58,20 +58,8 @@ plugins:
 author:
   name   : "Nicolas Vanspranghe"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student in control theory."
-  location : "Grenoble"
-  links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/nvanspra"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
+  bio    : "Postdoctoral researcher in control theory."
+  location : "Tampere
 #      url: "https://instagram.com/"
 
 footer:
