@@ -61,6 +61,10 @@ author:
   bio    : "Postdoctoral researcher"
   location : "Tampere"
 #      url: "https://instagram.com/"
+  links :
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
 
 footer:
   links:
@@ -69,7 +73,7 @@ footer:
 #      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/nvanspra"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"

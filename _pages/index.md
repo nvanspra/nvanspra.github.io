@@ -8,7 +8,6 @@ I did my PhD thesis at GIPSA-lab under the supervision of [Christophe Prieur](ht
 I graduated from Ecole Centrale de Lyon and Université Claude-Bernard in Engineering and Applied Mathematics in 2019.
 
 ## Research interests
-* Infinite-dimensional systems theory;
 * Analysis and control of partial differential equations;
 * Semigroup and operator theory in systems and control;
 * Nonlinear output regulation.
