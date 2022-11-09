@@ -3,7 +3,9 @@ permalink: /
 title: "Hello there!"
 ---
 
-I am a postdoctoral researcher within the [Systems Theory Research Group](https://sysgrouptampere.wordpress.com/) at Laboratory of Mathematics, Tampere University. I work under the supervision of [Lassi Paunonen](https://lassipaunonen.wordpress.com/).
+I am a postdoctoral researcher within the [Systems Theory Research Group](https://sysgrouptampere.wordpress.com/) at Laboratory of Mathematics, Tampere University. I work under the supervision of [Lassi Paunonen](https://lassipaunonen.wordpress.com/). My interests lie at the intersection of mathematical analysis, systems theory and automatic control.
+
+
 I did my PhD thesis at GIPSA-lab under the supervision of [Christophe Prieur](http://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/) and [Francesco Ferrante](http://www.fferrante.net/).
 I graduated from Ecole Centrale de Lyon and Université Claude-Bernard in Engineering and Applied Mathematics in 2019.
 
