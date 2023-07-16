@@ -23,4 +23,13 @@ author_profile: true
 - N. Vanspranghe, [Contributions à la théorie du contrôle des systèmes non-linéaires en dimension infinie](https://theses.hal.science/tel-03881092/document), PhD thesis, 2022.
 - N. Vanspranghe, [Parcimonie dans les problèmes d'observation](https://hal.archives-ouvertes.fr/hal-03350395/document), Master thesis, 2019.
 
+## Co-authors
+
+- [Lucas Brivadis](https://sites.google.com/view/lucas-brivadis/homepage);
+- [Francesco Ferrante](http://www.fferrante.net);
+- Pietro Lorenzetti;
+- [Lassi Paunonen](https://lassipaunonen.wordpress.com);
+- [Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/index.html);
+- George Weiss.
+
 
