@@ -7,7 +7,7 @@ author_profile: true
 ## Journal articles
 
 - N. Vanspranghe and L. Brivadis, [Output regulation of infinite-dimensional nonlinear systems: a forwarding approach for contraction semigroups](https://hal.archives-ouvertes.fr/hal-03540759/document), to appear in *SIAM Journal on Control and Optimization*.
-- N. Vanspranghe, F. Ferrante and C. Prieur, [Stabilization of the wave equation through nonlinear Dirichlet actuation](https://doi.org/10.1051/cocv/2022077), *ESAIM: Control, Optimisation and Calculus of Variations*, Volume 29, 57,  2023.
+- N. Vanspranghe, F. Ferrante and C. Prieur, [Stabilization of the wave equation through nonlinear Dirichlet actuation](https://doi.org/10.1051/cocv/2022077), *ESAIM: Control, Optimisation and Calculus of Variations*, 29(57),  2023.
 - N. Vanspranghe, F. Ferrante and C. Prieur, [Velocity stabilization of a wave equation with a nonlinear dynamic boundary condition](https://hal.archives-ouvertes.fr/hal-03349947/document), *IEEE Transactions on Automatic Control*, 67(12):6786–6793, 2022.
 
 ## Conference papers
