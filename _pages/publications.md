@@ -21,7 +21,6 @@ author_profile: true
 ## Theses
 
 - N. Vanspranghe, [Contributions à la théorie du contrôle des systèmes non-linéaires en dimension infinie](https://theses.hal.science/tel-03881092/document), PhD thesis, 2022.
-
 *Academic Thesis Prize from Université Grenoble Alpes.*
 - N. Vanspranghe, [Parcimonie dans les problèmes d'observation](https://hal.archives-ouvertes.fr/hal-03350395/document), Master thesis, 2019.
 
