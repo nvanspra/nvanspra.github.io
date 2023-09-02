@@ -35,7 +35,7 @@ author_profile: true
 
 ## Talks
 
-- Non-uniform Datko-Pazy criteria and asymptotics of contraction semigroups, *Operator Semigroups: Theory and Applications* (special session), [International Workshop on Operator Theory and Applications](https://www.helsinki.fi/en/conferences/iwota2023), August 2023, Helsinki.
+- Non-uniform Datko-Pazy criteria and asymptotics of contraction semigroups, *Operator Semigroups: Theory and Applications* (special session), [International Workshop on Operator Theory and Applications](https://www.helsinki.fi/en/conferences/iwota2023), Helsinki, August 2023.
 - Output regulation of nonlinear infinite-dimensional systems, *Control and Optimization in PDEs* (minisymposium), IFIP TC7 Conference on System Modeling and Optimisation, Warsaw, July 2022.
 - Output regulation for infinite-dimensional systems: a forwarding-based approach, [Séminaire d'automatique du plateau de Saclay](https://icode-seminars.github.io), Laboratoire des Signaux et Systèmes, CentraleSupélec, October 2021.
 - Saturated boundary stabilization of the wave equation in the Dirichlet boundary condition: asymptotic stability and non-uniform decay rates, [DPS Online Seminar](http://aero.us.es/DPSOnlineSeminar/Seminar.html), April 2021.
