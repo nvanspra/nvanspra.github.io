@@ -29,7 +29,7 @@ author_profile: true
 - [Lucas Brivadis](https://sites.google.com/view/lucas-brivadis/homepage);
 - [Francesco Ferrante](http://www.fferrante.net);
 - Pietro Lorenzetti;
-- [Lassi Paunonen](https://lassipaunonen.wordpress.com);
+- [Lassi Paunonen](https://paunonenmath.com/index.html);
 - [Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/index.html);
 - George Weiss.
 
