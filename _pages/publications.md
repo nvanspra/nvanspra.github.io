@@ -24,16 +24,6 @@ author_profile: true
 *Academic Thesis Prize from Université Grenoble Alpes.*
 - N. Vanspranghe, [Parcimonie dans les problèmes d'observation](https://hal.archives-ouvertes.fr/hal-03350395/document), Master thesis, 2019.
 
-## Research collaborators
-
-- [Lucas Brivadis](https://sites.google.com/view/lucas-brivadis/homepage);
-- [Francesco Ferrante](http://www.fferrante.net);
-- Pietro Lorenzetti;
-- [Lassi Paunonen](https://paunonenmath.com/index.html);
-- [Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/index.html);
-- [David Seifert](https://www.ncl.ac.uk/maths-physics/people/profile/davidseifert.html);
-- [Ruoyu P. T. Wang](https://rw563.user.srcf.net);
-- George Weiss.
 
 ## Talks
 
