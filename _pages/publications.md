@@ -32,6 +32,7 @@ author_profile: true
 - [Lassi Paunonen](https://paunonenmath.com/index.html);
 - [Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/index.html);
 - [David Seifert](https://www.ncl.ac.uk/maths-physics/people/profile/davidseifert.html);
+- [Ruoyu P. T. Wang](https://rw563.user.srcf.net);
 - George Weiss.
 
 ## Talks
