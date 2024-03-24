@@ -4,6 +4,10 @@ title: "Publications"
 author_profile: true
 ---
 
+## Preprints
+
+- L. Paunonen, R. P. T. Wang and N. Vanspranghe, [Weakly elliptic damping gives sharp decay](https://arxiv.org/pdf/2403.13067v1.pdf), submitted, 2024.
+
 ## Journal articles
 
 - N. Vanspranghe and L. Brivadis, [Output regulation of infinite-dimensional nonlinear systems: a forwarding approach for contraction semigroups](https://hal.archives-ouvertes.fr/hal-03540759/document), *SIAM Journal on Control and Optimization*, 61(4):2571-2594, 2023.
