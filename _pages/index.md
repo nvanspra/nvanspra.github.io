@@ -27,7 +27,7 @@ I have also served as a reviewer for various journals (Automatica, Mathematics o
 
 - [Lucas Brivadis](https://sites.google.com/view/lucas-brivadis/homepage);
 - [Francesco Ferrante](http://www.fferrante.net);
-- Pietro Lorenzetti;
+- [Pietro Lorenzetti](https://sites.google.com/view/plorenzetti/home);
 - [Lassi Paunonen](https://paunonenmath.com/index.html);
 - [Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/index.html);
 - [David Seifert](https://www.ncl.ac.uk/maths-physics/people/profile/davidseifert.html);
