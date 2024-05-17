@@ -32,7 +32,7 @@ author_profile: true
 
 ## Talks
 
--Frequency domain estimates for ill-posed systems and Neumann stabilization of the wave equation, [AGENT Forum (Analysis, Geometry, and Number Theory)](https://agent-forum.github.io), Jyväskylä, May 2024.
+- Frequency domain estimates for ill-posed systems and Neumann stabilization of the wave equation, [AGENT Forum (Analysis, Geometry and Number Theory)](https://agent-forum.github.io), Jyväskylä, May 2024.
 - Different approaches to integral action in nonlinear infinite-dimensional dynamics, [EDP, commande et observation des systèmes](https://indico.math.cnrs.fr/event/9782/) (invited talk), LAAS-CNRS, Toulouse, October 2023.
 - Non-uniform Datko-Pazy criteria and asymptotics of contraction semigroups, *Operator Semigroups: Theory and Applications* (special session), [International Workshop on Operator Theory and Applications](https://www.helsinki.fi/en/conferences/iwota2023), Helsinki, August 2023.
 - Output regulation of nonlinear infinite-dimensional systems, *Control and Optimization in PDEs* (minisymposium), IFIP TC7 Conference on System Modeling and Optimisation, Warsaw, July 2022.
