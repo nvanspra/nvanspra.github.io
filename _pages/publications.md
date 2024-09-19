@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Preprints
-
+- L. Paunonen, D. Seifert and N. Vanspranghe, [A non-uniform Datko-Pazy theorem for bounded operator semigroups], submitted, 2024.
 - L. Paunonen, R. P. T. Wang and N. Vanspranghe, [Weakly elliptic damping gives sharp decay](https://arxiv.org/pdf/2403.13067v1.pdf), submitted, 2024.
 
 ## Journal articles
@@ -31,7 +31,7 @@ author_profile: true
 
 
 ## Talks
-
+- Relaxed admissibility and sharp transfer function estimates for ill-posed systems, *Systems Theory* (special session) [International Workshop on Operator Theory and Applications](https://blogs.kent.ac.uk/iwota2024/), Canterbury, August 2024.
 - Frequency domain estimates for ill-posed systems and Neumann stabilization of the wave equation, [AGENT Forum (Analysis, Geometry and Number Theory)](https://agent-forum.github.io), Jyväskylä, May 2024.
 - Different approaches to integral action in nonlinear infinite-dimensional dynamics, [EDP, commande et observation des systèmes](https://indico.math.cnrs.fr/event/9782/) (invited talk), LAAS-CNRS, Toulouse, October 2023.
 - Non-uniform Datko-Pazy criteria and asymptotics of contraction semigroups, *Operator Semigroups: Theory and Applications* (special session), [International Workshop on Operator Theory and Applications](https://www.helsinki.fi/en/conferences/iwota2023), Helsinki, August 2023.
