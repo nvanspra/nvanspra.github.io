@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Preprints
-- L. Paunonen, D. Seifert and N. Vanspranghe, A non-uniform Datko-Pazy theorem for bounded operator semigroups, submitted, 2024.
+- L. Paunonen, D. Seifert and N. Vanspranghe, [A non-uniform Datko-Pazy theorem for bounded operator semigroups](https://arxiv.org/pdf/2409.12764), submitted, 2024.
 - L. Paunonen, R. P. T. Wang and N. Vanspranghe, [Weakly elliptic damping gives sharp decay](https://arxiv.org/pdf/2403.13067v1.pdf), submitted, 2024.
 
 ## Journal articles
