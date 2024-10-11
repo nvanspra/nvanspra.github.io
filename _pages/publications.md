@@ -5,11 +5,12 @@ author_profile: true
 ---
 
 ## Preprints
-- L. Paunonen, D. Seifert and N. Vanspranghe, [A non-uniform Datko-Pazy theorem for bounded operator semigroups](https://arxiv.org/pdf/2409.12764), submitted, 2024.
+
 - L. Paunonen, R. P. T. Wang and N. Vanspranghe, [Weakly elliptic damping gives sharp decay](https://arxiv.org/pdf/2403.13067v1.pdf), submitted, 2024.
 
 ## Journal articles
 
+- L. Paunonen, D. Seifert and N. Vanspranghe, [A non-uniform Datko-Pazy theorem for bounded operator semigroups](https://arxiv.org/pdf/2409.12764), to appear in *Studia Mathematica*, 2024.
 - N. Vanspranghe and L. Brivadis, [Output regulation of infinite-dimensional nonlinear systems: a forwarding approach for contraction semigroups](https://hal.archives-ouvertes.fr/hal-03540759/document), *SIAM Journal on Control and Optimization*, 61(4):2571-2594, 2023.
 - N. Vanspranghe, F. Ferrante and C. Prieur, [Stabilization of the wave equation through nonlinear Dirichlet actuation](https://doi.org/10.1051/cocv/2022077), *ESAIM: Control, Optimisation and Calculus of Variations*, 29(57),  2023.
 - N. Vanspranghe, F. Ferrante and C. Prieur, [Velocity stabilization of a wave equation with a nonlinear dynamic boundary condition](https://hal.archives-ouvertes.fr/hal-03349947/document), *IEEE Transactions on Automatic Control*, 67(12):6786–6793, 2022.
