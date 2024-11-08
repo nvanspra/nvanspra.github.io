@@ -24,7 +24,8 @@ I have volunteered for the IEEE CDC 2019 and am a member of the IFAC technical c
 I have also served as a reviewer for various journals (Automatica, Mathematics of Control, Signals, and Systems, IEEE Transactions on Automatic Control, IEEE Control Systems Letters, IMA Journal of Mathematical Control and Information, European Journal of Control) and conferences (CDC 2021-2023, ECC 2022-2023).
 
 ## Research collaborators
-
+- [Daniele Astolfi](https://sites.google.com/site/astolfidaniele/home);
+- [Vincent Andrieu](https://sites.google.com/site/vincentandrieu/);
 - [Lucas Brivadis](https://sites.google.com/view/lucas-brivadis/homepage);
 - [Francesco Ferrante](http://www.fferrante.net);
 - [Pietro Lorenzetti](https://sites.google.com/view/plorenzetti/home);
