@@ -13,7 +13,7 @@ I graduated from Ecole Centrale de Lyon and Université Claude-Bernard in Engine
 My interests lie at the intersection of mathematical analysis, systems theory and automatic control:
 * Analysis and control of partial differential equations;
 * Semigroup and operator theory;
-* Nonlinear output regulation.
+* Nonlinear feedback control.
 
 ## Community involvement 
 
