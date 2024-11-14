@@ -7,7 +7,7 @@ author_profile: true
 ## Preprints
 
 - L. Ma, N. Vanspranghe, D. Astolfi, V. Andrieu, M. Bajodek and X. Lou, [Nested saturation proportional derivative control for conservative PDE-ODE interconnections: the gantry crane example](https://hal.science/hal-04780869v1/document), submitted, 2024.
-- L. Paunonen, R. P. T. Wang and N. Vanspranghe, [Weakly elliptic damping gives sharp decay](https://arxiv.org/pdf/2403.13067v1.pdf), submitted, 2024.
+- L. Paunonen, N. Vanspranghe and R. P. T. Wang*, [Weakly elliptic damping gives sharp decay](https://arxiv.org/pdf/2403.13067v1.pdf), submitted, 2024.
 
 ## Journal articles
 
