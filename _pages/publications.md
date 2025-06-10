@@ -8,10 +8,10 @@ author_profile: true
 
 - L. Paunonen, D. Seifert and N. Vanspranghe, [Admissibility theory in abstract Sobolev scales and transfer function growth at high frequencies](https://arxiv.org/pdf/2412.14786), submitted, 2024.
 - L. Ma, N. Vanspranghe, D. Astolfi, V. Andrieu, M. Bajodek and X. Lou, [Nested saturation proportional derivative control for conservative PDE-ODE interconnections: the gantry crane example](https://hal.science/hal-04780869v1/document), submitted, 2024.
-- L. Paunonen, N. Vanspranghe and R. P. T. Wang, [Weakly elliptic damping gives sharp decay](https://arxiv.org/pdf/2403.13067v1.pdf), submitted, 2024.
 
 ## Journal articles
 
+- L. Paunonen, N. Vanspranghe and R. P. T. Wang, [Weakly elliptic damping gives sharp decay](https://arxiv.org/pdf/2403.13067v1.pdf), to appear in *Compte Rendus Mathématique*, 2025.
 - L. Paunonen, D. Seifert and N. Vanspranghe, [A non-uniform Datko-Pazy theorem for bounded operator semigroups](https://nvanspra.github.io/folder/sm240919-24-11.pdf), *Studia Mathematica*, 280(2):193-203, 2025.
 - N. Vanspranghe and L. Brivadis, [Output regulation of infinite-dimensional nonlinear systems: a forwarding approach for contraction semigroups](https://hal.archives-ouvertes.fr/hal-03540759/document), *SIAM Journal on Control and Optimization*, 61(4):2571-2594, 2023.
 - N. Vanspranghe, F. Ferrante and C. Prieur, [Stabilization of the wave equation through nonlinear Dirichlet actuation](https://doi.org/10.1051/cocv/2022077), *ESAIM: Control, Optimisation and Calculus of Variations*, 29(57),  2023.
