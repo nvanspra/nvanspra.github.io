@@ -6,6 +6,7 @@ author_profile: true
 
 ## Preprints
 
+- N. Vanspranghe, P. Lorenzetti, L. Paunonen and G. Weiss, Projected integral control of impedance passive nonlinear systems, submitted, 2025.
 - L. Paunonen, D. Seifert and N. Vanspranghe, [Admissibility theory in abstract Sobolev scales and transfer function growth at high frequencies](https://arxiv.org/pdf/2412.14786), submitted, 2024.
 - L. Ma, N. Vanspranghe, D. Astolfi, V. Andrieu, M. Bajodek and X. Lou, [Nested saturation proportional derivative control for conservative PDE-ODE interconnections: the gantry crane example](https://hal.science/hal-04780869v1/document), submitted, 2024.
 
