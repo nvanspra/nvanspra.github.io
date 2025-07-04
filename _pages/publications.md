@@ -34,6 +34,7 @@ author_profile: true
 
 
 ## Talks
+- Optimal stabilization rate for the wave equation with hyperbolic boundary condition, [Control of PDEs and related topics](https://indico.math.cnrs.fr/event/12315/), Institut de Mathématiques de Toulouse, July 2025.
 - Relaxed admissibility and sharp transfer function estimates for ill-posed systems, *Systems Theory* (special session) [International Workshop on Operator Theory and Applications](https://blogs.kent.ac.uk/iwota2024/), Canterbury, August 2024.
 - Frequency domain estimates for ill-posed systems and Neumann stabilization of the wave equation, [AGENT Forum (Analysis, Geometry and Number Theory)](https://agent-forum.github.io), Jyväskylä, May 2024.
 - Different approaches to integral action in nonlinear infinite-dimensional dynamics, [EDP, commande et observation des systèmes](https://indico.math.cnrs.fr/event/9782/) (invited talk), LAAS-CNRS, Toulouse, October 2023.
