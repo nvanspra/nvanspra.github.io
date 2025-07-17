@@ -34,11 +34,12 @@ author_profile: true
 
 
 ## Talks
+- Admissibility theory in abstract Sobolev scales and applications, *Linear systems and control theory* (special session), [International Workshop on Operator Theory and its Applications](https://www.utwente.nl/en/iwota2025/), University of Twente, July 2025.
 - Optimal stabilization rate for the wave equation with hyperbolic boundary condition, [Control of PDEs and related topics](https://indico.math.cnrs.fr/event/12315/), Institut de Mathématiques de Toulouse, July 2025.
-- Relaxed admissibility and sharp transfer function estimates for ill-posed systems, *Systems Theory* (special session) [International Workshop on Operator Theory and Applications](https://blogs.kent.ac.uk/iwota2024/), Canterbury, August 2024.
+- Relaxed admissibility and sharp transfer function estimates for ill-posed systems, *Systems Theory* (special session), [International Workshop on Operator Theory and its Applications](https://blogs.kent.ac.uk/iwota2024/), Canterbury, August 2024.
 - Frequency domain estimates for ill-posed systems and Neumann stabilization of the wave equation, [AGENT Forum (Analysis, Geometry and Number Theory)](https://agent-forum.github.io), Jyväskylä, May 2024.
 - Different approaches to integral action in nonlinear infinite-dimensional dynamics, [EDP, commande et observation des systèmes](https://indico.math.cnrs.fr/event/9782/) (invited talk), LAAS-CNRS, Toulouse, October 2023.
-- Non-uniform Datko-Pazy criteria and asymptotics of contraction semigroups, *Operator Semigroups: Theory and Applications* (special session), [International Workshop on Operator Theory and Applications](https://www.helsinki.fi/en/conferences/iwota2023), Helsinki, August 2023.
+- Non-uniform Datko-Pazy criteria and asymptotics of contraction semigroups, *Operator Semigroups: Theory and Applications* (special session), [International Workshop on Operator Theory and its Applications](https://www.helsinki.fi/en/conferences/iwota2023), Helsinki, August 2023.
 - Output regulation of nonlinear infinite-dimensional systems, *Control and Optimization in PDEs* (minisymposium), IFIP TC7 Conference on System Modeling and Optimisation, Warsaw, July 2022.
 - Output regulation for infinite-dimensional systems: a forwarding-based approach, [Séminaire d'automatique du plateau de Saclay](https://icode-seminars.github.io), Laboratoire des Signaux et Systèmes, CentraleSupélec, October 2021.
 - Saturated boundary stabilization of the wave equation in the Dirichlet boundary condition: asymptotic stability and non-uniform decay rates, [DPS Online Seminar](http://aero.us.es/DPSOnlineSeminar/Seminar.html), April 2021.
