@@ -3,7 +3,9 @@ permalink: /
 title: "Hello there!"
 ---
 
-I am a postdoctoral researcher within the [Systems Theory Research Group](https://paunonenmath.com/sysgroup/index.html) at Mathematics Research Centre, Tampere University. I work under the supervision of [Lassi Paunonen](https://paunonenmath.com/index.html).
+I am a postdoctoral researcher within the Inria team [DISCO](https://team.inria.fr/disco/fr/) at Laboratoire des signaux et systèmes, CentraleSupélec. I am working with [Catherine Bonnet](https://pages.saclay.inria.fr/catherine.bonnet/), [Guilherme Mazanti](https://pages.saclay.inria.fr/guilherme.mazanti/) and [Frédéric Mazenc](https://l2s.centralesupelec.fr/u/mazenc-frederic/).
+
+Before that I was with the [Systems Theory Research Group](https://paunonenmath.com/sysgroup/index.html) at Mathematics Research Centre, Tampere University. I worked under the supervision of [Lassi Paunonen](https://paunonenmath.com/index.html).
 
 I did my PhD thesis at GIPSA-lab under the supervision of [Christophe Prieur](http://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/) and [Francesco Ferrante](http://www.fferrante.net/).
 I graduated from Ecole Centrale de Lyon and Université Claude-Bernard in Engineering and Applied Mathematics in 2019.
