@@ -7,7 +7,7 @@ author_profile: true
 ## Preprints
 
 
--H. Parada and N. Vanspranghe, Optimal stabilization rate for the wave equation with hyperbolic boundary condition, submitted, 2025.
+- H. Parada and N. Vanspranghe, Optimal stabilization rate for the wave equation with hyperbolic boundary condition, submitted, 2025.
 - N. Vanspranghe, P. Lorenzetti, L. Paunonen and G. Weiss, [Projected integral control of impedance passive nonlinear systems](https://hal.science/hal-05114504v1/document), submitted, 2025.
 - L. Paunonen, D. Seifert and N. Vanspranghe, [Admissibility theory in abstract Sobolev scales and transfer function growth at high frequencies](https://arxiv.org/pdf/2412.14786), submitted, 2024.
 
