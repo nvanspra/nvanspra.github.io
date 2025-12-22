@@ -6,6 +6,8 @@ author_profile: true
 
 ## Preprints
 
+
+-H. Parada and N. Vanspranghe, Optimal stabilization rate for the wave equation with hyperbolic boundary condition, submitted, 2025.
 - N. Vanspranghe, P. Lorenzetti, L. Paunonen and G. Weiss, [Projected integral control of impedance passive nonlinear systems](https://hal.science/hal-05114504v1/document), submitted, 2025.
 - L. Paunonen, D. Seifert and N. Vanspranghe, [Admissibility theory in abstract Sobolev scales and transfer function growth at high frequencies](https://arxiv.org/pdf/2412.14786), submitted, 2024.
 
@@ -35,7 +37,7 @@ author_profile: true
 - N. Vanspranghe, [Parcimonie dans les problèmes d'observation](https://hal.archives-ouvertes.fr/hal-03350395/document), Master thesis, 2019.
 
 
-## Talks
+<!-- ## Talks
 - Admissibility theory in abstract Sobolev scales and applications, *Linear systems and control theory* (special session), [International Workshop on Operator Theory and its Applications](https://www.utwente.nl/en/iwota2025/), University of Twente, July 2025.
 - Optimal stabilization rate for the wave equation with hyperbolic boundary condition, [Control of PDEs and related topics](https://indico.math.cnrs.fr/event/12315/), Institut de Mathématiques de Toulouse, July 2025.
 - Relaxed admissibility and sharp transfer function estimates for ill-posed systems, *Systems Theory* (special session), [International Workshop on Operator Theory and its Applications](https://blogs.kent.ac.uk/iwota2024/), Canterbury, August 2024.
@@ -44,7 +46,7 @@ author_profile: true
 - Non-uniform Datko-Pazy criteria and asymptotics of contraction semigroups, *Operator Semigroups: Theory and Applications* (special session), [International Workshop on Operator Theory and its Applications](https://www.helsinki.fi/en/conferences/iwota2023), Helsinki, August 2023.
 - Output regulation of nonlinear infinite-dimensional systems, *Control and Optimization in PDEs* (minisymposium), IFIP TC7 Conference on System Modeling and Optimisation, Warsaw, July 2022.
 - Output regulation for infinite-dimensional systems: a forwarding-based approach, [Séminaire d'automatique du plateau de Saclay](https://icode-seminars.github.io), Laboratoire des Signaux et Systèmes, CentraleSupélec, October 2021.
-- Saturated boundary stabilization of the wave equation in the Dirichlet boundary condition: asymptotic stability and non-uniform decay rates, [DPS Online Seminar](http://aero.us.es/DPSOnlineSeminar/Seminar.html), April 2021.
+- Saturated boundary stabilization of the wave equation in the Dirichlet boundary condition: asymptotic stability and non-uniform decay rates, [DPS Online Seminar](http://aero.us.es/DPSOnlineSeminar/Seminar.html), April 2021. -->
 
 
 
