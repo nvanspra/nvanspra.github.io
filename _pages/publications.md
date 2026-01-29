@@ -15,7 +15,7 @@ author_profile: true
 ## Journal articles
 
 
-- L. Ma, N. Vanspranghe, D. Astolfi, V. Andrieu, M. Bajodek and X. Lou, [Nested saturation proportional derivative control for conservative PDE-ODE interconnections: the gantry crane example](https://hal.science/hal-04780869v1/document), *Automatica*, 185:112834, 2025.
+- L. Ma, N. Vanspranghe, D. Astolfi, V. Andrieu, M. Bajodek and X. Lou, [Nested saturation proportional derivative control for conservative PDE-ODE interconnections: the gantry crane example](https://hal.science/hal-04780869v1/document), *Automatica*, 185:112834, 2026.
 - L. Paunonen, N. Vanspranghe and R. P. T. Wang, [Weakly elliptic damping gives sharp decay](https://comptes-rendus.academie-sciences.fr/mathematique/item/10.5802/crmath.767.pdf), *Comptes Rendus. Mathématique*, 363:1263-1275, 2025.
 - L. Paunonen, D. Seifert and N. Vanspranghe, [A non-uniform Datko-Pazy theorem for bounded operator semigroups](https://nvanspra.github.io/folder/sm240919-24-11.pdf), *Studia Mathematica*, 280(2):193-203, 2025.
 - N. Vanspranghe and L. Brivadis, [Output regulation of infinite-dimensional nonlinear systems: a forwarding approach for contraction semigroups](https://hal.archives-ouvertes.fr/hal-03540759/document), *SIAM Journal on Control and Optimization*, 61(4):2571-2594, 2023.
