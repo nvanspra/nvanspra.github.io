@@ -24,6 +24,7 @@ author_profile: true
 
 ## Conference papers
 
+- J. Sihvonen, N.Vanspranghe, L. Paunonen and J. Heiland,  Integral control of Oseen flows with mixed boundary conditions, to be presented at European Control Conference, Reykjavik, Island, 2026.
 - J. Kosonen, L. Paunonen and N. Vanspranghe, [Polynomial stability of coupled waves with weak indirect damping](http://dx.doi.org/10.1016/j.ifacol.2024.10.109), MTNS 2024, Cambridge, United Kingdom.
 - N. Vanspranghe, L. Brivadis and L. Paunonen, [On forwarding techniques for stabilization and set-point output regulation of semilinear infinite-dimensional systems](https://hal.science/hal-04230517/document), IEEE Conference on Decision and Control, Singapore, 2023.
 - P. Lorenzetti, L. Paunonen, N. Vanspranghe and G. Weiss, [Saturating integral control for infinite-dimensional linear systems](https://ieeexplore.ieee.org/abstract/document/10384187), IEEE Conference on Decision and Control, Singapore, 2023.
