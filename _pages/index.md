@@ -3,7 +3,9 @@ permalink: /
 title: "Hello there!"
 ---
 
-Starting from February 2027 I will be a CNRS researcher (*chargé de recherche*) at Laboratoire des Sciences du Numérique de Nantes (LS2N). Until then, I will be enjoying some time off, but feel free to reach out by [email](https://nvanspra.github.io/folder/email.png).
+Starting from February 2027 I will be a CNRS researcher (*chargé de recherche*) at Laboratoire des sciences du numérique de Nantes. 
+
+Until then, I will be enjoying some time off, but feel free to reach out by [email](https://nvanspra.github.io/folder/email.png).
 
 ## Short bio
 
