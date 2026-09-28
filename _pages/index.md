@@ -3,15 +3,15 @@ permalink: /
 title: "Hello there!"
 ---
 
-Starting from February 2027 I will be a CNRS researcher (*chargé de recherche*) at Laboratoire des Sciences du Numérique de Nantes (LS2N). Until then, I will be enjoying some time off, but feel free to reach out by email.
+Starting from February 2027 I will be a CNRS researcher (*chargé de recherche*) at Laboratoire des Sciences du Numérique de Nantes (LS2N). Until then, I will be enjoying some time off, but feel free to reach out by [email](https://nvanspra.github.io/folder/email.png).
 
+## Short bio
 
-I am a postdoctoral researcher within the Inria team [DISCO](https://team.inria.fr/disco/fr/) at Laboratoire des signaux et systèmes, CentraleSupélec. I am working with [Catherine Bonnet](https://pages.saclay.inria.fr/catherine.bonnet/), [Guilherme Mazanti](https://pages.saclay.inria.fr/guilherme.mazanti/) and [Frédéric Mazenc](https://l2s.centralesupelec.fr/u/mazenc-frederic/).
+I was a postdoctoral researcher with the Inria team [DISCO](https://team.inria.fr/disco/fr/) at Laboratoire des signaux et systèmes, CentraleSupélec. I was working with [Catherine Bonnet](https://pages.saclay.inria.fr/catherine.bonnet/), [Guilherme Mazanti](https://pages.saclay.inria.fr/guilherme.mazanti/) and [Frédéric Mazenc](https://l2s.centralesupelec.fr/u/mazenc-frederic/). 
 
 Before that I was with the [Systems Theory Research Group](https://paunonenmath.com/sysgroup/index.html) at Mathematics Research Centre, Tampere University. I worked under the supervision of [Lassi Paunonen](https://paunonenmath.com/index.html).
 
 I did my PhD thesis at GIPSA-lab under the supervision of [Christophe Prieur](http://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/) and [Francesco Ferrante](http://www.fferrante.net/).
-
 
 
 ## Research interests
@@ -25,13 +25,8 @@ My interests lie at the intersection of mathematical analysis, systems theory an
 
 I was among the organizers of the workshop [Internal-Model based Regulation](https://imr23.sciencesconf.org) (IMR 23) that took place at CentraleSupélec in November 2023.
 
-<!-- I have volunteered for the IEEE CDC 2019 and am a member of the IFAC technical commitee on nonlinear control systems ([TC 2.3](https://tc.ifac-control.org/2/3)) and the IEEE technical commitee on distributed parameter systems ([TCDPS](http://ieeecss.org/tc/distributed-parameter-systems/roster)).  -->
-
-I have also served as a reviewer for various journals (Automatica, Systems & Control Letters, EJC, IEEE TAC, IEEE L-CSS, IMA MCI, MCSS)
- <!-- Mathematics of Control, Signals, and Systems, IEEE Transactions on Automatic Control, IEEE Control Systems Letters, IMA Journal of Mathematical Control and Information, European Journal of Control -->
-and conferences (CDC 2021-2023, ECC 2022-2023).
-
 ## Research collaborators
+
 - [Daniele Astolfi](https://sites.google.com/site/astolfidaniele/home);
 - [Vincent Andrieu](https://sites.google.com/site/vincentandrieu/);
 - [Catherine Bonnet](https://pages.saclay.inria.fr/catherine.bonnet/);
